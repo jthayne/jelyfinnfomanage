@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.</plot>
+  <customrating>PG-13</customrating>
+  <lockdata>false</lockdata>
+  <lockedfields>OfficialRating</lockedfields>
+  <dateadded>2023-07-22 14:42:11</dateadded>
+  <title>Return of the Jedi</title>
+  <originaltitle>Return of the Jedi</originaltitle>
+  <director>Richard Marquand</director>
+  <writer>George Lucas</writer>
+  <writer>Lawrence Kasdan</writer>
+  <credits>George Lucas</credits>
+  <credits>Lawrence Kasdan</credits>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=1x4OmSgR714</trailer>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=7L8p7_SLzvU</trailer>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=XgB4gaY2dWE</trailer>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=16YLjTkK5jE</trailer>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=NJZ83r9DlGc</trailer>
+  <rating>7.891</rating>
+  <year>1983</year>
+  <sorttitle>Star Wars Episode 6</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <collectionnumber>10</collectionnumber>
+  <imdbid>tt0086190</imdbid>
+  <tmdbid>1892</tmdbid>
+  <premiered>1983-05-25</premiered>
+  <releasedate>1983-05-25</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>135</runtime>
+  <tagline>The Empire Falls...</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Science Fiction</genre>
+  <studio>Lucasfilm Ltd.</studio>
+  <tag>desert</tag>
+  <tag>emperor</tag>
+  <tag>ewoks</tag>
+  <tag>forest</tag>
+  <tag>jabba the hutt</tag>
+  <tag>matter of life and death</tag>
+  <tag>rebel</tag>
+  <tag>sibling relationship</tag>
+  <tag>space battle</tag>
+  <tag>space opera</tag>
+  <tag>spacecraft</tag>
+  <art>
+    <poster>/media/Movies/S/Star Wars Episode VI Return of the Jedi (1983) [imdbid-tt0086190]/folder.jpg</poster>
+    <fanart>/media/Movies/S/Star Wars Episode VI Return of the Jedi (1983) [imdbid-tt0086190]/backdrop1.jpg</fanart>
+    <fanart>/media/Movies/S/Star Wars Episode VI Return of the Jedi (1983) [imdbid-tt0086190]/backdrop2.jpg</fanart>
+    <fanart>/media/Movies/S/Star Wars Episode VI Return of the Jedi (1983) [imdbid-tt0086190]/backdrop3.jpg</fanart>
+  </art>
+  <isuserfavorite>false</isuserfavorite>
+  <playcount>0</playcount>
+  <watched>false</watched>
+  <resume>
+    <position>0</position>
+    <total>8088.448</total>
+  </resume>
+  <actor>
+    <name>Mark Hamill</name>
+    <role>Luke Skywalker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Harrison Ford</name>
+    <role>Han Solo</role>
+    <type>Actor</type>
+    <thumb>/config/metadata/People/H/Harrison Ford/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Carrie Fisher</name>
+    <role>Princess Leia</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Billy Dee Williams</name>
+    <role>Lando Calrissian</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Anthony Daniels</name>
+    <role>C-3PO</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Peter Mayhew</name>
+    <role>Chewbacca</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sebastian Shaw</name>
+    <role>Anakin Skywalker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ian McDiarmid</name>
+    <role>The Emperor</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Frank Oz</name>
+    <role>Yoda (voice)</role>
+    <type>Actor</type>
+    <thumb>/config/metadata/People/F/Frank Oz/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>James Earl Jones</name>
+    <role>Darth Vader (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>David Prowse</name>
+    <role>Darth Vader</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Alec Guinness</name>
+    <role>Ben 'Obi-Wan' Kenobi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenny Baker</name>
+    <role>R2-D2 / Paploo</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Michael Pennington</name>
+    <role>Moff Jerjerrod</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenneth Colley</name>
+    <role>Admiral Piett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>George Lucas</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+    <thumb>/config/metadata/People/G/George Lucas/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rick McCallum</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Howard G. Kazanjian</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Robert Watts</name>
+    <role>Co-Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Jim Bloom</name>
+    <role>Co-Producer</role>
+    <type>Producer</type>
+  </actor>
+  <id>tt0086190</id>
+  <set>Star Wars Collection</set>
+  <fileinfo>
+    <streamdetails>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1023454</bitrate>
+        <width>720</width>
+        <height>368</height>
+        <aspect>160:69</aspect>
+        <aspectratio>160:69</aspectratio>
+        <framerate>23.976023</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8088</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160385</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <data>
+        <codec>bin_data</codec>
+        <micodec>bin_data</micodec>
+        <bitrate>1</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </data>
+    </streamdetails>
+  </fileinfo>
+</movie>

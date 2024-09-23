@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>As a wild stallion travels across the frontiers of the Old West, he befriends a young human and finds true love with a mare.</plot>
+  <lockdata>false</lockdata>
+  <lockedfields>Tags</lockedfields>
+  <dateadded>2024-08-20 06:41:38</dateadded>
+  <title>Spirit: Stallion of the Cimarron</title>
+  <originaltitle>Spirit: Stallion of the Cimarron</originaltitle>
+  <director>Kelly Asbury</director>
+  <director>Lorna Cook</director>
+  <writer>John Fusco</writer>
+  <writer>Michael Lucker</writer>
+  <credits>John Fusco</credits>
+  <credits>Michael Lucker</credits>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=RPJ4EQ2Eh9I</trailer>
+  <rating>7.693</rating>
+  <year>2002</year>
+  <mpaa>G</mpaa>
+  <collectionnumber>806483</collectionnumber>
+  <imdbid>tt0166813</imdbid>
+  <tmdbid>9023</tmdbid>
+  <premiered>2002-05-24</premiered>
+  <releasedate>2002-05-24</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>83</runtime>
+  <tagline>Leader. Hero. Legend.</tagline>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Family</genre>
+  <genre>Romance</genre>
+  <genre>Western</genre>
+  <studio>DreamWorks Animation</studio>
+  <studio>DreamWorks Pictures</studio>
+  <tag>For Littles</tag>
+  <art>
+    <poster>/media/Movies/S/Spirit Stallion of the Cimarron (2002) [tmdbid-9023]/folder.jpg</poster>
+    <fanart>/media/Movies/S/Spirit Stallion of the Cimarron (2002) [tmdbid-9023]/backdrop.jpg</fanart>
+  </art>
+  <isuserfavorite>false</isuserfavorite>
+  <playcount>0</playcount>
+  <watched>false</watched>
+  <resume>
+    <position>0</position>
+    <total>5006.761467</total>
+  </resume>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Spirit (voice)</role>
+    <type>Actor</type>
+    <thumb>/config/metadata/People/M/Matt Damon/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>James Cromwell</name>
+    <role>The Colonel (voice)</role>
+    <type>Actor</type>
+    <thumb>/config/metadata/People/J/James Cromwell/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Charles Napier</name>
+    <role>Roy (voice)</role>
+    <type>Actor</type>
+    <thumb>/config/metadata/People/C/Charles Napier/folder.jpg</thumb>
+  </actor>
+</movie>

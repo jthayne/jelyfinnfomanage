@@ -1,0 +1,16 @@
+{
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "8.3"
+    }
+  },
+  "require": {
+    "php": "^8.3",
+    "catfan/medoo": "^2.1",
+    "cerbero/enum": "^1.0",
+    "vlucas/phpdotenv": "^5.6"
+  }
+}

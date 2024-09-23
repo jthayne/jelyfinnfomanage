@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  php-8.3-jelly:
+    container_name: php-8.3-jelly
+    build: .
+    depends_on:
+      - db-jelly
+    restart: always
+    volumes:
+      - ./:/var/www/html/
+    environment:
+      WEB_DOCUMENT_ROOT: /var/www/html/
+      XDEBUG_MODE: debug
+      XDEBUG_CLIENT_HOST: host.docker.internal
+    ports:
+      - "8866:80"
+    extra_hosts:
+      host.docker.internal: host-gateway
+  db-jelly:
+    container_name: db-jelly
+    image: mysql:8.0
+    restart: always
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "passworded"
+    cap_add:
+      - CAP_SYS_NICE
+    ports:
+      - "13397:3306"
